@@ -1,7 +1,7 @@
 # Vera GPT
 
 This package makes the OpenAI API accessible in a format similar to inference using trained ML models.
-This allows OpenAI completions and batch calls to be integrated into other python applications, namely our Ray serving service.
+This allows OpenAI completions and batch calls to be integrated into other python applications (Ray serving service).
 
 
 ## Installing
