@@ -1,0 +1,7 @@
+
+openai==1.30.2
+requests==2.29.0
+beautifulsoup4==4.12.2
+playwright==1.41.2
+brotlipy==0.7.0
+html5lib==1.1
